@@ -10,5 +10,5 @@ void loop() {
   digitalWrite(13, HIGH);
   counter++;
   Serial.println(counter,DEC);
-  delay(1000);
+  delay(500);
 }
